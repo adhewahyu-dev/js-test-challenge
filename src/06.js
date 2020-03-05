@@ -1,0 +1,1 @@
+module.exports = (kata,time) => kata.repeat(time)
